@@ -1,0 +1,19 @@
+body{
+    background-color: #24353f;
+}
+
+.container .row .form {
+    margin-top: 46px;
+    background-color: #24353f;
+    box-shadow: 1px 1px 10px black;
+    padding: 33px;
+}
+
+.container .row .form h2{
+    color: #368ead;
+    font-size: 46px;
+    font-weight: bold;
+}
+.container .row .form p ,a{
+    color: white;
+}

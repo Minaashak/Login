@@ -1,0 +1,27 @@
+body{
+    background-color: #24353f;
+}
+nav {
+    box-shadow: 1px 1px 15px black;
+}
+
+nav .container .row .cont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 13px;
+}
+nav .container .row .cont h2{
+    cursor: pointer;
+    color: white;
+}
+
+.container .row .hello{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 1px 1px 15px black;
+    padding: 36px 0;
+    color: white;
+}
